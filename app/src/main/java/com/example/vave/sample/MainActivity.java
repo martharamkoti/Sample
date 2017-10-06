@@ -14,6 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 //Created by RAM.
+//Commiting the code to first branch to github
 
 public class MainActivity extends AppCompatActivity {
     // Remove the below line after defining your own ad unit ID.
