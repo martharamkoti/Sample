@@ -16,8 +16,6 @@ import android.widget.Toast;
 //Created by RAM.
 //Commiting the code to second(9th-oct) branch to github
 //Commiting the code to third(9th-oct) branch to github
-//Commiting the code to fourth(9th-oct) branch to github
-//Commiting the code to fifth(9th-oct) branch to github
 
 public class MainActivity extends AppCompatActivity {
     // Remove the below line after defining your own ad unit ID.
